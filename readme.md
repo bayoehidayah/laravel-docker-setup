@@ -1,6 +1,6 @@
 # How to use
 - docker compose up
-- docker exec -it appname-web-
+- docker exec -it {appname}-php-1 bash
 
 # Detail
 - nginx
